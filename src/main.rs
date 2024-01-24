@@ -5,6 +5,7 @@ mod s4;
 mod s5;
 mod s7;
 mod s8;
+mod s9;
 
 fn main() {
     s1::solution();
@@ -14,4 +15,5 @@ fn main() {
     s5::solution();
     s7::solution();
     s8::solution();
+    s9::solution();
 }
